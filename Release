@@ -1,0 +1,8 @@
+Origin: syto203
+Label: syto203's repo
+Suite: stable
+Version: 1.0
+Codename: syto203repo
+Architectures: iphoneos-arm
+Components: main
+Description: syto203's Cydia Repository

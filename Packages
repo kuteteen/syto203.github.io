@@ -1,0 +1,303 @@
+Package: com.syto203.ExpensesOKPatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.syto203.ExpensesOKPatch_0.0.1_iphoneos-arm.deb
+Size: 3960
+MD5sum: 04ac708b3ddf1b29235264eced3ec951
+SHA1: e73b1fd745445e3b06e0bfc0c1ab195d8b18b410
+SHA256: 855329d21ef8aa04672b04435b06bf98ebb93314cc6e2ccf1869d531fae92cb5
+Section: Tweaks
+Author: syto203
+Name: Expenses OK Patch
+
+Package: syto203.Anghami.PP
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: debs/syto203.Anghami.PP_1.3-UNIV_iphoneos-arm.deb
+Size: 15464
+MD5sum: 43d6756f18931b3b2a143be012f0db84
+SHA1: d35d08524b2b79fac0a67e737372529e7ea7cea3
+SHA256: fc86cdc47d9b57a9cceba4e90c64785c6e604c805fcfdd477d0e691a48ed0d39
+Section: Tweaks
+Description: No Ads, No Limitations and Max Stream Quality Enabled.
+Author: syto203 <syto203@protonmail.com>
+Name: Anghami++
+
+Package: syto203.Calm.PP
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.Calm.PP_0.2_iphoneos-arm-UNIV.deb
+Size: 6370
+MD5sum: 4e1984b0aaeb7d253ff0fe0b0848a538
+SHA1: 68030f194f6ae0ec02598f82d1072f240f5b3ee3
+SHA256: 32f43063b6d03b2e4745ef0e633a8a18ec3a049adfd28915a5638bc67a43a1d7
+Section: Tweaks
+Description: Premium Subscription Enabled. To Enable Downloading create an account.
+Author: syto203 <syto203@protonmail.com>
+Name: Calm++
+
+Package: syto203.Calm.PP
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.Calm.PP_0.3_iphoneos-arm-UNIV.deb
+Size: 6372
+MD5sum: 3845d8d98e858a8188299080a715640e
+SHA1: 945b363d4ed5880580834e487de09fc0b64e82fc
+SHA256: 2595ffcd86d232cdca7c5cf7f376e64a8436b845194fef40d6a1c260be27deb4
+Section: Tweaks
+Description: Premium Subscription Enabled. Downloading Enabled without the Need to Login.
+Author: syto203 <syto203@protonmail.com>
+Name: Calm++
+
+Package: syto203.TVCastDLNA.PP
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/syto203.TVCastDLNA.PP_1.0_iphoneos-arm.deb
+Size: 3314
+MD5sum: 17dd568619d10f2b8fe753b356ff9a6f
+SHA1: eb95c09e09f013020aa4649bbe9f578a244859e0
+SHA256: 3cb7f51405c6042a8df589d408a5570bfc08a86a86382bfb0e8e649324b585e3
+Section: Tweaks
+Description: Full Premium features For TV Cast for DLNA
+Author: syto203
+Name: TVCastDLNA++
+
+Package: syto203.TVCastDLNA.PP
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/syto203.TVCastDLNA.PP_1.1_iphoneos-arm.deb
+Size: 3418
+MD5sum: ad653e0df1503ccf9cf84dec5ed4408d
+SHA1: 67d5c93742185c3ff62618739060cba408a96fac
+SHA256: 9b3d2b229ae7f80cf517ec24b62e72b233cbc83fce58ce37e367d75e80f24bb0
+Section: Tweaks
+Description: Full Premium features For TV Cast for DLNA
+Author: syto203 <syto203@protonmail.com>
+Name: TVCastDLNA++
+
+Package: syto203.TVCastDLNA.PP
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/syto203.TVCastDLNA.PP_1.2_iphoneos-arm.deb
+Size: 3388
+MD5sum: 9b261fe7680d8ff9def95d35e942cc1e
+SHA1: 3c28b0633992bf05df22a417aa848d543da7fc20
+SHA256: 2dd0cb2f8f4ce50607b6f9b548208af710ca50ec7a5ac1c2d112562ed6f66838
+Section: Tweaks
+Description: Full Premium features For TV Cast for DLNA
+Author: syto203 <syto203@protonmail.com>
+Name: TVCastDLNA++
+
+Package: syto203.TVCastSamsung.PP
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/syto203.TVCastSamsung.PP_1.0_iphoneos-arm.deb
+Size: 3458
+MD5sum: ed6d07a863182569d9464a330f420ec8
+SHA1: 22ec12c852389a227afc928818257d52e9c3e47b
+SHA256: f52d7021fb76b3f9d524c607413ece365bf1c20d000ad5cbfe62816855a97468
+Section: Tweaks
+Description: Full Premium features For TV Cast for Samsung TVs
+Author: syto203
+Name: TVCast-Samsung++
+
+Package: syto203.TVCastSamsung.PP
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/syto203.TVCastSamsung.PP_1.1_iphoneos-arm.deb
+Size: 3564
+MD5sum: 35005b744a10050ad87947c42ec934e2
+SHA1: d57272df0d2b56fdf47a31c15f18d6aec70b512d
+SHA256: e7335d0608f6566d5520a2bc6eed10f373301107604c3724225479ded9d8202e
+Section: Tweaks
+Description: Full Premium features For TV Cast for Samsung TVs
+Author: syto203 <syto203@protonmail.com>
+Name: TVCast-Samsung++
+
+Package: syto203.TVCastSamsung.PP
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/syto203.TVCastSamsung.PP_1.2_iphoneos-arm.deb
+Size: 3526
+MD5sum: 58d9dac2c8e8be26c466ebc4471c8bae
+SHA1: 1f9c0647971d328fbd37cdb874b141294965fbe5
+SHA256: 5abdf08bbb83fc4d7c990625b1d07c8da1208fe043ebc38ed3145ac259b6ce43
+Section: Tweaks
+Description: Full Premium features For TV Cast for Samsung TVs
+Author: syto203 <syto203@protonmail.com>
+Name: TVCast-Samsung++
+
+Package: syto203.Termius.PP
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/syto203.Termius.PP_1.0_iphoneos-arm.deb
+Size: 3670
+MD5sum: 913a9abb780015e73b6b31baac7e5ff1
+SHA1: 3fcbc1dc11a0d78f569fa28d0da86f0369c18e8e
+SHA256: 330831df96dd25b363f2ecbe0254f39ee120b808d133f1117f8a7fd6e930db90
+Section: Tweaks
+Description: Enable Full Pro Features for Termius. SFTP, Snippets, Backgrounding, and many more. Support Devs and Purchase the subscription.
+Author: syto203 <syto203@protonmail.com>
+Name: Termius++
+
+Package: syto203.Tubio.PP
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/syto203.Tubio.PP_1.0_iphoneos-arm.deb
+Size: 3762
+MD5sum: f9658e54eea759e23f5dcbffe52ee311
+SHA1: d12c39d0b150595cfc1ae6c62e1e9a8b4b1aee74
+SHA256: ba463d552cc1311dbab22585bb19a8d33f18b97c4b9c55be72be114b82bd4ba6
+Section: Tweaks
+Description: Enable Full Premium Features
+Author: syto203 <syto203@protonmail.com>
+Name: Tubio++
+
+Package: syto203.battleheartlegacy.mm
+Version: 0.3
+Architecture: iphoneos-arm
+Installed-Size: 96
+Depends: mobilesubstrate
+Filename: debs/syto203.battleheartlegacy.mm_0.3_iphoneos-arm64.deb
+Size: 18584
+MD5sum: 10e9265968840496164b933752f1a4ed
+SHA1: b270b24e1489268441c8698f3bf6013beb655945
+SHA256: d21dec1705691aa64d13277978090334877ff8907c54a13b12a78751ec56a7a0
+Section: Tweaks
+Homepage: https://syto203.github.io
+Description: BH:Legacy+3 mod menu made by syto203 for All Devices(A12 included)
+Author: syto203
+Name: BH:Legacy+3
+
+Package: syto203.battleheartlegacy.mm
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: debs/syto203.battleheartlegacy.mm_0.5_iphoneos-arm.deb
+Size: 51970
+MD5sum: bd6471df6721bd10356b80f2d52cbf47
+SHA1: 265bbfa1de57a7987cb6c315c1f53a76d7979c92
+SHA256: ae64b053721110c050b1215529a5fbf890ef6fb8f1084bfce15d0ac7dbba5034
+Section: Tweaks
+Description: BH:Legacy+5 Mod Menu by syto203. Latest tested version "1.3.1".
+Author: syto203 <syto203@protonmail.com>
+Name: BH:Legacy+5
+
+Package: syto203.cotomovies.PP
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/syto203.cotomovies.PP_1.0_iphoneos-arm.deb
+Size: 4792
+MD5sum: 21648e8803b8dde136b70a6aa2ea44d2
+SHA1: 2dc6666cf5bd7d3003d1c3ae9fc407e2b0dc5115
+SHA256: aff20e9740b4041b1b18972d2255268292f8af0c462d9533d5dca01049a25c07
+Section: Tweaks
+Description: No Ads in CotoMovies App
+Author: syto203
+Name: CotoMovies++
+
+Package: syto203.cotomovies.PP
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/syto203.cotomovies.PP_1.1_iphoneos-arm.deb
+Size: 4890
+MD5sum: e30a38c8e43e81ef41308f524aa97aa7
+SHA1: ffb83cdd4a62d397108054782db02210f26dfc42
+SHA256: fb7355f511bb4b160603964cedf67c3c6602c352354b15c08000d4520cb5cbb1
+Section: Tweaks
+Description: No Ads in CotoMovies App
+Author: syto203 <syto203@protonmail.com>
+Name: CotoMovies++
+
+Package: syto203.mediaBoxhd.pp
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.mediaBoxhd.pp_0.1_iphoneos-arm.deb
+Size: 5504
+MD5sum: 73e813e9230358dc940e431914b474c4
+SHA1: ad8f492fb99f610c93838e64c61f56f010623332
+SHA256: 76e734ff8ed1c2e006aba0243bad7276536d8ced914587417e70c871d4f4cb4c
+Section: Tweaks
+Description: Disable ads on MediaBox HD. Ads are non-intrusive, don't install this tweak if they don't bother you.
+Author: syto203 <syto203@protonmail.com>
+Name: mediaBoxhdpp
+
+Package: syto203.mediaBoxhd.pp
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.mediaBoxhd.pp_0.2_iphoneos-arm.deb
+Size: 4654
+MD5sum: 28c3e3273a7ded46692e2c06cd91dafb
+SHA1: a40cad6ca55557d903a95d180c82f020753230d5
+SHA256: 0ef8eeb5c3842b974fbc15968a11b4e044d1ad25b6f4accca28ec66084e12ba9
+Section: Tweaks
+Description: Disable ads on MediaBox HD. Ads are non-intrusive, don't install this tweak if they don't bother you.
+Author: syto203 <syto203@protonmail.com>
+Name: mediaBoxhdpp
+
+Package: syto203.mediaBoxhd.pp
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.mediaBoxhd.pp_0.4_iphoneos-arm.deb
+Size: 6166
+MD5sum: 9eaa88ad72ab2ca9b2c75d93aab3799a
+SHA1: cc5498b357957a2a3a5fbec68f26b47d88ca09a5
+SHA256: e017d33656237e1ad43dce63b70b0d7334f17a9f483d0f7a8fe8e96eebced267
+Section: Tweaks
+Description: Disable ads on MediaBox HD. Ads are non-intrusive, don't install this tweak if they don't bother you.
+Author: syto203 <syto203@protonmail.com>
+Name: mediaBoxhdpp
+
