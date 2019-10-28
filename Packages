@@ -190,6 +190,22 @@ Author: syto203 <syto203@protonmail.com>
 Name: Tubio++
 
 Package: syto203.battleheartlegacy.mm
+Version: 0.3
+Architecture: iphoneos-arm
+Installed-Size: 96
+Depends: mobilesubstrate
+Filename: debs/syto203.battleheartlegacy.mm_0.3_iphoneos-arm64.deb
+Size: 18584
+MD5sum: 336bd5ab8afa1fa9e465bd5934851490
+SHA1: 5707d7e7917e5b2d1041132bfc548d56d6a63d48
+SHA256: 9a4b013bfd8aa3d129630f13e871f4181a96d71c9bb3ff7837ce71704366366f
+Section: Tweaks
+Homepage: http://syto203.github.io
+Description: BH:Legacy+3 mod menu made by syto203 for arm64 devices only.
+Author: syto203
+Name: BH:Legacy+3
+
+Package: syto203.battleheartlegacy.mm
 Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: syto203 <syto203@protonmail.com>
@@ -204,22 +220,6 @@ Section: Tweaks
 Description: BH:Legacy+5 Mod Menu by syto203. Latest tested version "1.3.1".
 Author: syto203 <syto203@protonmail.com>
 Name: BH:Legacy+5
-
-Package: syto203.battleheartlegacy.mm
-Version: 1.3.1
-Architecture: iphoneos-arm
-Installed-Size: 96
-Depends: mobilesubstrate
-Filename: debs/syto203.battleheartlegacy.mm_0.3_iphoneos-arm64.deb
-Size: 18588
-MD5sum: 75a24332fa0373807f0312bf36399f5b
-SHA1: dbed4bf7057df0bf2bb0b7186979a02b95339edf
-SHA256: 23ca4d1237b6c20f4992a8f31c5d04b2d67ad2df2110a5f8a65884eaf447cd90
-Section: Tweaks
-Homepage: http://syto203.github.io
-Description: BH:Legacy+3 mod menu made by syto203 for arm64 devices only.
-Author: syto203
-Name: BH:Legacy+3
 
 Package: syto203.cotomovies.PP
 Version: 1.0
