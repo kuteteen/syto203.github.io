@@ -13,24 +13,6 @@ Section: Tweaks
 Author: syto203
 Name: Expenses OK Patch
 
-Package: com.thearmking.igoi
-Version: 1.02
-Architecture: iphoneos-arm
-Maintainer: TheArmKing
-Installed-Size: 760
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: debs/IGOI_1.02_Public.deb
-Size: 282292
-MD5sum: 7ed348062de6b3b1fd9062fdc53811d0
-SHA1: 78b820796193b54edecacadde028b98b07b3bb18
-SHA256: ef851e24c100af2ce5c0e6f5ff8e0c2261f4831605c06b91c1989a14242ff25f
-Section: Tool
-Homepage: https://thearmking.xyz
-Description: A Tweak that helps you inject the NEW Platinmods Menu and test offsets easily!
-Author: TheArmKing
-Icon: file:///Library/PreferenceBundles/igoiPrefs.bundle/icon@2x.png
-Name: In-Game Offset Injector
-
 Package: syto203.Anghami.PP
 Version: 1.3
 Architecture: iphoneos-arm
