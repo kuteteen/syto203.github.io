@@ -13,6 +13,24 @@ Section: Tweaks
 Author: syto203
 Name: Expenses OK Patch
 
+Package: com.thearmking.igoi
+Version: 1.02
+Architecture: iphoneos-arm
+Maintainer: TheArmKing
+Installed-Size: 760
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: debs/IGOI_1.02_Public.deb
+Size: 282292
+MD5sum: 7ed348062de6b3b1fd9062fdc53811d0
+SHA1: 78b820796193b54edecacadde028b98b07b3bb18
+SHA256: ef851e24c100af2ce5c0e6f5ff8e0c2261f4831605c06b91c1989a14242ff25f
+Section: Tool
+Homepage: https://thearmking.xyz
+Description: A Tweak that helps you inject the NEW Platinmods Menu and test offsets easily!
+Author: TheArmKing
+Icon: file:///Library/PreferenceBundles/igoiPrefs.bundle/icon@2x.png
+Name: In-Game Offset Injector
+
 Package: syto203.Anghami.PP
 Version: 1.3
 Architecture: iphoneos-arm
@@ -220,6 +238,22 @@ Section: Tweaks
 Description: BH:Legacy+5 Mod Menu by syto203. Latest tested version "1.3.1".
 Author: syto203 <syto203@protonmail.com>
 Name: BH:Legacy+5
+
+Package: syto203.battleheartlegacy.mm
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: debs/syto203.battleheartlegacy.mm_0.6_iphoneos-arm.deb
+Size: 50946
+MD5sum: aa155915da1eb7d1c93451c3418134ab
+SHA1: 72f05fe90646bf76d38edeffb39824901a65ecee
+SHA256: 54fe6665f04bc69f97307446ec885ebc2456c0137ec092fe5b6616ff3fc16fdc
+Section: Tweaks
+Description: BH:Legacy+6 Mod Menu by syto203. Latest tested version "1.3.1".
+Author: syto203 <syto203@protonmail.com>
+Name: BH:Legacy+6
 
 Package: syto203.cotomovies.PP
 Version: 1.0
