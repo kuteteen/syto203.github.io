@@ -255,6 +255,23 @@ Description: BH:Legacy+6 Mod Menu by syto203. Latest tested version "1.3.1".
 Author: syto203 <syto203@protonmail.com>
 Name: BH:Legacy+6
 
+Package: syto203.battleheartlegacy.mm
+Version: 0.6.1
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 1804
+Depends: mobilesubstrate
+Filename: debs/syto203.battleheartlegacy.mm_0.6.1_iphoneos-arm.deb
+Size: 612352
+MD5sum: 422065639ae31e41a9ebf3aa1e5e58a9
+SHA1: 5289b93b1a663e6c989f33cc0a60855cf3bb6a1a
+SHA256: 11ad52f6537c069af091a6a99657b689f474c3a544598d3dcb8aaf765a260c6b
+Section: Tweaks
+Homepage: https://syto203.github.io
+Description: Battleheart Legacy +6 Mod Menu by syto203. Latest tested version "1.3.1".
+Author: syto203 <syto203@protonmail.com>
+Name: BattleheartMM Mod Menu
+
 Package: syto203.cotomovies.PP
 Version: 1.0
 Architecture: iphoneos-arm
