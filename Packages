@@ -444,6 +444,23 @@ Description: Disable ads on MediaBox HD. Ads are non-intrusive, don't install th
 Author: syto203 <syto203@protonmail.com>
 Name: mediaBoxhd++
 
+Package: syto203.mediaBoxhd.pp
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.mediaBoxhd.pp_0.5_iphoneos-arm.deb
+Size: 6768
+MD5sum: 4414238c56878ea35ea69c2e2e35f9cb
+SHA1: 4358c6cf1de8bc2967327d54194c59d0669314b5
+SHA256: f5a91ac593f0c481ffc0db66a891f7bddbbadf7dcd732b418194b4cd4ae3c20f
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Disable ads on MediaBox HD and enable Play in Background. Ads are non-intrusive, don't install this tweak if they don't bother you.
+Author: syto203 <syto203@protonmail.com>
+Name: mediaBoxhd++
+
 Package: syto203.tvcastChrome.PP
 Version: 1.2
 Architecture: iphoneos-arm
