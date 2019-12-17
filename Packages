@@ -105,10 +105,10 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.Calm.PP_0.3_iphoneos-arm.deb
-Size: 6396
-MD5sum: ced258642aff1b3b77d4a76e116acfb1
-SHA1: 3ee92616077d4a77a27777e8b6b339232a79c3b0
-SHA256: 5b80f7081d5da3ca73a15acaa4c809cc3205113dfa987c644c0e20f247e8ef14
+Size: 6394
+MD5sum: 4170b2370e169ee7d56c0312ab2efd2b
+SHA1: 058cac846fcba0e15f1cde8e9b515d6b32616b97
+SHA256: 485b7f642a2fb8d675f88c6e8f084db42cb2a57061174321bc8efe723fb67a9a
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Premium Subscription Enabled. Downloading Enabled without the Need to Login.
@@ -236,10 +236,10 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: debs/syto203.Termius.PP_1.0_iphoneos-arm.deb
-Size: 4298
-MD5sum: 0680c48c66345e89e2921896b8507249
-SHA1: 188ae8c3e1f45db9771429c0fb7073ae77ab3b7e
-SHA256: b1de73c6631136f80db76900e60f4b1b5e70f203d256f21794c8c4f975e62545
+Size: 5006
+MD5sum: 780f76f5bf5d91a166875a367078c6f0
+SHA1: d256eff6ad86be268beca36b962c2ada46170fd5
+SHA256: 977fa23b24b1f87c19c5f4c8a7ee9cf9aae1528e46bfafba395289b348b84e57
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Enable Pro For Termius. Only for Jailbroken Devices.
