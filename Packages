@@ -180,6 +180,23 @@ Description: Full Premium features For TV Cast for DLNA
 Author: syto203 <syto203@protonmail.com>
 Name: TVCastDLNA++
 
+Package: syto203.TVCastLG.PP
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.TVCastLG.PP_1.2_iphoneos-arm.deb
+Size: 5404
+MD5sum: 8bec98de044649d6782ec3845f3ad22f
+SHA1: fd11b8dcaa49d17c1bfd8a909f2ca812432fbd7e
+SHA256: f02d1cd760ab610dc8163f3430ad36f074548843b1e944987e839ad0703f8d5b
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Full Premium features For TV Cast for LG TVs
+Author: syto203 <syto203@protonmail.com>
+Name: TVCast-LG++
+
 Package: syto203.TVCastSamsung.PP
 Version: 1.0
 Architecture: iphoneos-arm
