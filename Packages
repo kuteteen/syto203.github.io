@@ -197,6 +197,23 @@ Description: Full Premium features For TV Cast for LG TVs
 Author: syto203 <syto203@protonmail.com>
 Name: TVCast-LG++
 
+Package: syto203.TVCastNexus.PP
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.TVCastNexus.PP_1.2_iphoneos-arm.deb
+Size: 5404
+MD5sum: 07fc5d841ac6c0ac3a99a2916072bccc
+SHA1: 8c7f9696f6a1f663bf51fed1888ad4d849d64d6f
+SHA256: 1d1c5a5870665b2a70df98b4cce382c250ff2a4ee217870c033e41dcee645987
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Full Premium features For TV Cast for Google Cast
+Author: syto203 <syto203@protonmail.com>
+Name: TVCast-Nexus++
+
 Package: syto203.TVCastSamsung.PP
 Version: 1.0
 Architecture: iphoneos-arm
