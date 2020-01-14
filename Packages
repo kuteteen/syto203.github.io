@@ -214,6 +214,23 @@ Description: Full Premium features For TV Cast for Google Cast
 Author: syto203 <syto203@protonmail.com>
 Name: TVCast-Nexus++
 
+Package: syto203.TVCastRoku.PP
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.TVCastRoku.PP_1.2_iphoneos-arm.deb
+Size: 5400
+MD5sum: 944b40ebb88b693e71db02528695af17
+SHA1: 8c0eccd52b67624dbc399b056e90d990bff114fb
+SHA256: b73ddafa3d6075f210ed8d2b00264c539a5c99a57dd2431a2d64b796c0736fea
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Full Premium features For TV Cast for Roku
+Author: syto203 <syto203@protonmail.com>
+Name: TVCast-Roku++
+
 Package: syto203.TVCastSamsung.PP
 Version: 1.0
 Architecture: iphoneos-arm
