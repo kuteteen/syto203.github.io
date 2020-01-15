@@ -505,14 +505,14 @@ Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.mediaBoxhd.pp_0.5_iphoneos-arm.deb
 Size: 6802
-MD5sum: 50a0c28427332a610921a21400386297
-SHA1: 549a25be4b92268dbeb2a4a563eb312a4d29fc3e
-SHA256: ecd5065285814a5f2b40edabbe81b8e331e0805943cf82fcc1e01bcd9b731891
+MD5sum: 988a39ba3d9e205bc9fd76fb663f2c95
+SHA1: a6c855b2cba9187a3e38cdafb80dd160e1056e19
+SHA256: 3bb611c87f60e240647cca6478dda3a45089db0e80bde977b52d04baa68dd2eb
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Disable ads on MediaBox HD and enable Play in Background. Ads are non-intrusive, don't install this tweak if they don't bother you.
 Author: syto203 <syto203@protonmail.com>
-Icon: file:///Applications/Cydia.app/Tweaks.png
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: mediaBoxhd++
 
 Package: syto203.tvcastChrome.PP
