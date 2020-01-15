@@ -342,6 +342,24 @@ Author: syto203 <syto203@protonmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: TVCast-Samsung++
 
+Package: syto203.TVCastSamsung.PP
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.TVCastSamsung.PP_1.2-2_iphoneos-arm.deb
+Size: 5434
+MD5sum: 9a8dd44bbf75f85120e77992e12b310b
+SHA1: 8915d2ae4aeb11f8da103041ca99c27ad059f1ca
+SHA256: 62971e8cc5363e5fc9a39dd85819477d8e8d128f74821298150df197d6f34f80
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Full Premium features For TV Cast for Samsung TVs
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: TVCast-Samsung++
+
 Package: syto203.Termius.PP
 Version: 1.0
 Architecture: iphoneos-arm
