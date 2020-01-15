@@ -39,14 +39,15 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: debs/syto203.Anghami.PP_1.3_iphoneos-arm.deb
-Size: 15474
-MD5sum: 1010d28f86177b66b48911f57bf1724a
-SHA1: 7fa5a4acba4ba735ca6dd7d3fc7b85d124d56a69
-SHA256: b3c6d41aefe9bc8105684a4ee23177a7ff6b999eee5f06ea72c331b36f7eae27
+Size: 15500
+MD5sum: e483566c9f11e39ae6378b1c474c7fbb
+SHA1: 7fe6ceeadf06b4ab20cb9fdecaa5191eed39903c
+SHA256: 84f324fe190a1da794bbb95f87612fb4c39fb51b4aee1283ac302d7739c6bf17
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: No Ads, No Limitations and Max Stream Quality Enabled.
 Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Tweaks.png
 Name: Anghami++
 
 Package: syto203.Anghami.PP
