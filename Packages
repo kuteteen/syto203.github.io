@@ -50,22 +50,6 @@ Author: syto203 <syto203@protonmail.com>
 Icon: file:///Applications/Cydia.app/Tweaks.png
 Name: Anghami++
 
-Package: syto203.Anghami.PP
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: syto203 <syto203@protonmail.com>
-Installed-Size: 216
-Depends: mobilesubstrate
-Filename: debs/syto203.Anghami.PP_1.3-UNIV_iphoneos-arm.deb
-Size: 15464
-MD5sum: 43d6756f18931b3b2a143be012f0db84
-SHA1: d35d08524b2b79fac0a67e737372529e7ea7cea3
-SHA256: fc86cdc47d9b57a9cceba4e90c64785c6e604c805fcfdd477d0e691a48ed0d39
-Section: Tweaks
-Description: No Ads, No Limitations and Max Stream Quality Enabled.
-Author: syto203 <syto203@protonmail.com>
-Name: Anghami++
-
 Package: syto203.Audiomack.PP
 Version: 1.0
 Architecture: iphoneos-arm
@@ -520,14 +504,15 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.mediaBoxhd.pp_0.5_iphoneos-arm.deb
-Size: 6768
-MD5sum: 4414238c56878ea35ea69c2e2e35f9cb
-SHA1: 4358c6cf1de8bc2967327d54194c59d0669314b5
-SHA256: f5a91ac593f0c481ffc0db66a891f7bddbbadf7dcd732b418194b4cd4ae3c20f
+Size: 6802
+MD5sum: 50a0c28427332a610921a21400386297
+SHA1: 549a25be4b92268dbeb2a4a563eb312a4d29fc3e
+SHA256: ecd5065285814a5f2b40edabbe81b8e331e0805943cf82fcc1e01bcd9b731891
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Disable ads on MediaBox HD and enable Play in Background. Ads are non-intrusive, don't install this tweak if they don't bother you.
 Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Tweaks.png
 Name: mediaBoxhd++
 
 Package: syto203.tvcastChrome.PP
