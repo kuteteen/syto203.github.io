@@ -14,6 +14,24 @@ Homepage: https://syto203.github.io
 Author: syto203
 Name: Expenses OK Patch
 
+Package: com.syto203.ExpensesOKPatch
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.syto203.ExpensesOKPatch_0.0.1-2_iphoneos-arm.deb
+Size: 4700
+MD5sum: 5d57abd8e5cfb6dfa50b17e58ddd83ec
+SHA1: 4e23074b528e0b3dacd50ec3f314ea65cdbf59bf
+SHA256: e5d52da21e0f406c37749ef9973e63b5d13c8a6796370fc28e7ab07d4b6c2d3a
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Enable decrypted install.
+Author: syto203
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Expenses OK Patch
+
 Package: com.thearmking.igoi
 Version: 1.02
 Architecture: iphoneos-arm
@@ -50,6 +68,24 @@ Author: syto203 <syto203@protonmail.com>
 Icon: file:///Applications/Cydia.app/Tweaks.png
 Name: Anghami++
 
+Package: syto203.Anghami.PP
+Version: 1.3-2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: debs/syto203.Anghami.PP_1.3-2_iphoneos-arm.deb
+Size: 15508
+MD5sum: 14036075aca4f2f87ce31c8c99fd2242
+SHA1: bbd2b3ab1bf760033d7a6490175227d2010afe0f
+SHA256: ca83920eee333862c3e7d8431492f9461b4f2a70e6d20dd27c37126eb1dc5199
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: No Ads, No Limitations and Max Stream Quality Enabled.
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Anghami++
+
 Package: syto203.Audiomack.PP
 Version: 1.0
 Architecture: iphoneos-arm
@@ -65,6 +101,24 @@ Section: Hacks
 Homepage: https://syto203.github.io
 Description: Audiomach Premium Enabled.
 Author: syto203 <syto203@protonmail.com>
+Name: Audiomack++
+
+Package: syto203.Audiomack.PP
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.Audiomack.PP_1.0-2_iphoneos-arm.deb
+Size: 5762
+MD5sum: 3ecdafed40d344b2395c641e713b71ff
+SHA1: 2cac1fb2ef8c56f8533b8013e6fd72c1d5deb062
+SHA256: c5a32bb0203f2bfa7a19c584dac98fc5d3cea3b74d20b77993277a23839818f9
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Audiomach Premium Enabled.
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Audiomack++
 
 Package: syto203.Calm.PP
@@ -116,6 +170,24 @@ Description: Premium Subscription Enabled. Downloading Enabled without the Need 
 Author: syto203 <syto203@protonmail.com>
 Name: Calm++
 
+Package: syto203.Calm.PP
+Version: 0.3-2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.Calm.PP_0.3-2_iphoneos-arm.deb
+Size: 6428
+MD5sum: 6106f6de468e8f091a3bb6170e13ae3c
+SHA1: a656a894f9c1b6c618adb871796a9ea010e66628
+SHA256: 264ad2a3f854277f018edd654c799ecce200676382a96905ec666c1da65e1736
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Premium Subscription Enabled. Downloading Enabled without the Need to Login.
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Calm++
+
 Package: syto203.TVCastDLNA.PP
 Version: 1.0
 Architecture: iphoneos-arm
@@ -152,17 +224,18 @@ Package: syto203.TVCastDLNA.PP
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: syto203 <syto203@protonmail.com>
-Installed-Size: 156
+Installed-Size: 152
 Depends: mobilesubstrate
 Filename: debs/syto203.TVCastDLNA.PP_1.2_iphoneos-arm.deb
-Size: 5524
-MD5sum: 7209ec125ebe3a925dd79584653081a2
-SHA1: ef9487c4e6ad8edec26bd03526a35c4776c269cb
-SHA256: 9769774a83dc8242b44917f0a19a2b896417edcd29ef12f263c8ff1aa46de4e3
+Size: 4980
+MD5sum: 431334e57536a3505ff57197ed469065
+SHA1: 62168c6d2d09190fe075810767d7b61bbd1c948e
+SHA256: 46cf273abfca84b8a6d4a1bae67004645cb6dec579a8bc6c1f12b1aecce156f0
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Full Premium features For TV Cast for DLNA
 Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: TVCastDLNA++
 
 Package: syto203.TVCastLG.PP
@@ -172,14 +245,15 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.TVCastLG.PP_1.2_iphoneos-arm.deb
-Size: 5404
-MD5sum: 8bec98de044649d6782ec3845f3ad22f
-SHA1: fd11b8dcaa49d17c1bfd8a909f2ca812432fbd7e
-SHA256: f02d1cd760ab610dc8163f3430ad36f074548843b1e944987e839ad0703f8d5b
+Size: 5434
+MD5sum: 8e70310c4e049f26a268ec3bac38fe98
+SHA1: f3eef20094df409bd662d96efdc87ec3e00a4cc9
+SHA256: 5a669ac361d8c060e3d6007bf38cd2339e9e976decf69c1340f780699db8c69f
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Full Premium features For TV Cast for LG TVs
 Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: TVCast-LG++
 
 Package: syto203.TVCastNexus.PP
@@ -189,14 +263,15 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.TVCastNexus.PP_1.2_iphoneos-arm.deb
-Size: 5404
-MD5sum: 07fc5d841ac6c0ac3a99a2916072bccc
-SHA1: 8c7f9696f6a1f663bf51fed1888ad4d849d64d6f
-SHA256: 1d1c5a5870665b2a70df98b4cce382c250ff2a4ee217870c033e41dcee645987
+Size: 5450
+MD5sum: 42760e32166d35eea699c64966e4fde2
+SHA1: 44e2446be4db5e18691e7eb78b804f5ec0774b3b
+SHA256: e1281de0b4bff93398e0ffb09e9dee4125c41b938dbd082e69b25145f37b8885
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Full Premium features For TV Cast for Google Cast
 Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: TVCast-Nexus++
 
 Package: syto203.TVCastRoku.PP
@@ -206,14 +281,15 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.TVCastRoku.PP_1.2_iphoneos-arm.deb
-Size: 5400
-MD5sum: 944b40ebb88b693e71db02528695af17
-SHA1: 8c0eccd52b67624dbc399b056e90d990bff114fb
-SHA256: b73ddafa3d6075f210ed8d2b00264c539a5c99a57dd2431a2d64b796c0736fea
+Size: 5452
+MD5sum: be281bb75c94ea957507e44236859e88
+SHA1: b58f380d2501ddd4e9e93d53138230654cbfae39
+SHA256: 62b5ae349d4f5789fc0cc2dd00b3605bac7d5c55120f1cd716632275794a8473
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Full Premium features For TV Cast for Roku
 Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: TVCast-Roku++
 
 Package: syto203.TVCastSamsung.PP
@@ -252,17 +328,18 @@ Package: syto203.TVCastSamsung.PP
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: syto203 <syto203@protonmail.com>
-Installed-Size: 204
+Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.TVCastSamsung.PP_1.2_iphoneos-arm.deb
-Size: 6376
-MD5sum: 151aca5ea44949fe92f1f7c1cdf534ee
-SHA1: 8150b5ebcf455e9c312f59dd314c08c991589692
-SHA256: fa11e51a0960bb74cf1c72dec67d8ff3acba5ee43b1e690b785b76c932f18198
+Size: 5436
+MD5sum: 344f5dc28487de222caf09321c092473
+SHA1: f113a3dc0f98e72b960a9d8d40ec89c1e6e3a05a
+SHA256: 650b5e52617fdd544860989a6f0b1bc9e9619a1dcace65da65bd8bd7a223306f
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Full Premium features For TV Cast for Samsung TVs
 Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: TVCast-Samsung++
 
 Package: syto203.Termius.PP
@@ -289,14 +366,15 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: debs/syto203.Termius.PP_1.5_iphoneos-arm.deb
-Size: 5000
-MD5sum: 1832bc55b078a001ed4be8d9e29306d1
-SHA1: 488044f8e51079732825c8eaf3d7d8f08a6a541a
-SHA256: ce1ecbb421107f14f2b041b3b6a4b3a291a4d57497d251c70b14410df4f5a2e2
+Size: 5042
+MD5sum: 89d321bd17d7c6703aabaea515c3830f
+SHA1: 934213224786ff8a4ede8233152beb10d5b71fb0
+SHA256: 9175fcaf050c2be2a6799f7635ea7f57947d93ead2f6deaa48f2705ebbf3810b
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Enable Pro For Termius. Only for Jailbroken Devices.
 Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Termius++
 
 Package: syto203.Tubio.PP
@@ -314,6 +392,24 @@ Section: Hacks
 Homepage: https://syto203.github.io
 Description: Enable Full Premium Features
 Author: syto203 <syto203@protonmail.com>
+Name: Tubio++
+
+Package: syto203.Tubio.PP
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/syto203.Tubio.PP_1.0-2_iphoneos-arm.deb
+Size: 4462
+MD5sum: 9bc479f9a41133991f04bd17ce06ffd0
+SHA1: 724976bac4825f645693322f8a4029c35c33e0ad
+SHA256: efc81a9f6daef7373c20278b3af70e43c660bc171ae78f9873b5d316bdacacd7
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Enable Full Premium Features
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Tubio++
 
 Package: syto203.battleheartlegacy.mm
@@ -398,6 +494,24 @@ Description: Battleheart Legacy +7 Mod Menu by syto203. Latest tested version "1
 Author: syto203 <syto203@protonmail.com>
 Name: BattleheartMM Mod Menu
 
+Package: syto203.battleheartlegacy.mm
+Version: 0.7-2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 1804
+Depends: mobilesubstrate
+Filename: debs/syto203.battleheartlegacy.mm_0.7-2_iphoneos-arm.deb
+Size: 612400
+MD5sum: fc57e34065711f97a03a89ae31c75673
+SHA1: 50421076fa43f911dee97251d4cd9b77c68b74aa
+SHA256: 1c4222e225519a241b6f188c5b745c6880bff395ffa1ebf4e093a12d4897f3df
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Battleheart Legacy +7 Mod Menu by syto203. Latest tested version "1.3.1".
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: BattleheartMM Mod Menu
+
 Package: syto203.classtimetable.pp
 Version: 0.1
 Architecture: iphoneos-arm
@@ -413,6 +527,24 @@ Section: Hacks
 Homepage: https://syto203.github.io
 Description: Pro Enabled for The Class Timetable. Requires main app from the AppStore
 Author: syto203 <syto203@protonmail.com>
+Name: ClassTimetable++
+
+Package: syto203.classtimetable.pp
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: debs/syto203.classtimetable.pp_0.1-2_iphoneos-arm.deb
+Size: 2834
+MD5sum: 159ad4d69ed6cc22487b5efe0df6ec19
+SHA1: 61941a6b84d265659dc9a6b37f1e7f14c496538f
+SHA256: 86f70b4ac0fa48afa484106b99dd4364070587c2f03fbcaf6a2cb988ee3a8616
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Pro Enabled for The Class Timetable. Requires main app from the AppStore
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: ClassTimetable++
 
 Package: syto203.cotomovies.PP
@@ -446,6 +578,24 @@ Section: Hacks
 Homepage: https://syto203.github.io
 Description: No Ads in CotoMovies App
 Author: syto203 <syto203@protonmail.com>
+Name: CotoMovies++
+
+Package: syto203.cotomovies.PP
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/syto203.cotomovies.PP_1.1-2_iphoneos-arm.deb
+Size: 6142
+MD5sum: 7c0ca68e416ab3ea81634bf9061a0e05
+SHA1: 18293bba016d9992297894f96e85b49fa5e6d96b
+SHA256: a82918b748e8adca02b6748f0d47ba8fe421a9cff4d2d0ca7cdf53cf09bb46e4
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: No Ads in CotoMovies App
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: CotoMovies++
 
 Package: syto203.mediaBoxhd.pp
@@ -530,5 +680,23 @@ Section: Hacks
 Homepage: https://syto203.github.io
 Description: Full Premium features For TV Cast for ChromeCast
 Author: syto203 <syto203@protonmail.com>
+Name: TVCastChrome++
+
+Package: syto203.tvcastChrome.PP
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.tvcastChrome.PP_1.2-2_iphoneos-arm.deb
+Size: 5446
+MD5sum: af07b9fa0980a97c1d376b406c879f68
+SHA1: 779ac7dc8bea57faf0d94da44bcd84c10ca692d4
+SHA256: b868c3bc89aeb1bfd209afaaa02bd581e6f433ec920c28b1c068251b296c976e
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Full Premium features For TV Cast for ChromeCast
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: TVCastChrome++
 
