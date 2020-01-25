@@ -430,6 +430,24 @@ Author: syto203 <syto203@protonmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Tubio++
 
+Package: syto203.Unfold.PP
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.Unfold.PP_1.0_iphoneos-arm.deb
+Size: 5464
+MD5sum: e54dff71fff9f7db9519529fc6d1446d
+SHA1: cd900ee6b42e7bf9d6b21a256fb7bbc4d61d0391
+SHA256: 989feddabd8d1c78350635fb791c0262af5bc0236f65735cc8618e4ab2650799
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Enables All templates in Unfold. Doesn't Enable Fonts or Love,Pride and RED templates.
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Unfold++
+
 Package: syto203.battleheartlegacy.mm
 Version: 0.3
 Architecture: iphoneos-arm
