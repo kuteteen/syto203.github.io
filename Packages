@@ -419,10 +419,10 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: debs/syto203.Tubio.PP_1.0-2_iphoneos-arm.deb
-Size: 4462
-MD5sum: 9bc479f9a41133991f04bd17ce06ffd0
-SHA1: 724976bac4825f645693322f8a4029c35c33e0ad
-SHA256: efc81a9f6daef7373c20278b3af70e43c660bc171ae78f9873b5d316bdacacd7
+Size: 5280
+MD5sum: f0e76a18c8ba57d35455377faf8cb9d6
+SHA1: 442105728a0d70ba7986987c4186ed1792412909
+SHA256: da0f1b8a4bf9a7ac6a22f6ae0c7b1d33b044ec4189d103b2f8a2a5ad520614d6
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Enable Full Premium Features
