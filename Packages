@@ -177,10 +177,10 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.Calm.PP_0.3-2_iphoneos-arm.deb
-Size: 6428
-MD5sum: 6106f6de468e8f091a3bb6170e13ae3c
-SHA1: a656a894f9c1b6c618adb871796a9ea010e66628
-SHA256: 264ad2a3f854277f018edd654c799ecce200676382a96905ec666c1da65e1736
+Size: 6448
+MD5sum: 35740c5211c7a45bf0307af9a01041bd
+SHA1: ad6a14c9753af2c0607ae52dcf5b647b765228d7
+SHA256: c69c152f515e79bfa323c8164d8e37aae56f9a88210588707c7c251c912ca8d2
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Premium Subscription Enabled. Downloading Enabled without the Need to Login.
