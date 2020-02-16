@@ -708,16 +708,16 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.pigeonapps.torbrowser.pp_0.0.1_iphoneos-arm.deb
-Size: 6608
-MD5sum: 4b69296b7b06cd66d9fa0c49c83b7634
-SHA1: f6eb8dc2a8d1cf11726618da7800f0710e0e5766
-SHA256: ef705bb18ca8329999ec61cc7e215573ad135f7fee030db535ddb72272ea54ea
+Size: 6150
+MD5sum: e0ea53cb724f380d040665097b174a5e
+SHA1: 664bf65e47d2d6aa8b1fe2bfd64d7de58454936e
+SHA256: 81d5a9e555f6daa531f1e9aed371e91058a800dbc2ac942a7778a785ac7e598e
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Pro Enabled for Tor Browser Private Web
 Author: syto203 <syto203@protonmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: torbrowserpp
+Name: TorBrowser++
 
 Package: syto203.tvcastChrome.PP
 Version: 1.2
