@@ -437,10 +437,28 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.Unfold.PP_1.0_iphoneos-arm.deb
-Size: 5574
-MD5sum: fbeb50c289667021904361da0939f613
-SHA1: 6a103a50f457c3a0ae72b0cfe86c8b765ba4abf8
-SHA256: 9d84eacaf02e64721c3618a1c239baece289f656a3b13704f15673d780c53eaf
+Size: 5458
+MD5sum: c7e52e7c8e6c78bb9a6cb48570b7f6f5
+SHA1: 07a64fdb14e1217441ce55907d4d36e7ed2b1eda
+SHA256: 822217531a45d52d3e9c31fda25e008edc3c984ca266d1886b3b8d55ba9925a0
+Section: Hacks
+Homepage: https://syto203.github.io
+Description: Enables All templates in Unfold. Doesn't Enable Fonts or Love,Pride and RED templates.
+Author: syto203 <syto203@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Unfold++
+
+Package: syto203.Unfold.PP
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: syto203 <syto203@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/syto203.Unfold.PP_1.1_iphoneos-arm.deb
+Size: 5580
+MD5sum: d16d7698768b0848b148b0d8478f1b18
+SHA1: f9676965313d38716e341ad8cbf74ddfe1f6a9e3
+SHA256: 77f717f6a48f4d4ac57c58412830db58877e2f34d05c2a8f73e9f1e33ba55eb7
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Enables All templates in Unfold. Doesn't Enable Fonts or Love,Pride and RED templates.
