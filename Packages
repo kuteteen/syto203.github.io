@@ -437,10 +437,10 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.Unfold.PP_1.0_iphoneos-arm.deb
-Size: 5464
-MD5sum: e54dff71fff9f7db9519529fc6d1446d
-SHA1: cd900ee6b42e7bf9d6b21a256fb7bbc4d61d0391
-SHA256: 989feddabd8d1c78350635fb791c0262af5bc0236f65735cc8618e4ab2650799
+Size: 5574
+MD5sum: fbeb50c289667021904361da0939f613
+SHA1: 6a103a50f457c3a0ae72b0cfe86c8b765ba4abf8
+SHA256: 9d84eacaf02e64721c3618a1c239baece289f656a3b13704f15673d780c53eaf
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: Enables All templates in Unfold. Doesn't Enable Fonts or Love,Pride and RED templates.
