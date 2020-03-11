@@ -815,10 +815,10 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.zinitevi.pp_0.0.2_iphoneos-arm.deb
-Size: 8604
-MD5sum: eac385f4d22d8f46299f47f8a2170e1f
-SHA1: f7713dfaaca2a20e35e7529cb5eee41035e39a0a
-SHA256: 5f26026b0b7647fc98f705e77f4af7e83dfa0f9fcea918e211e8d229abcb1ace
+Size: 8600
+MD5sum: 4564865b0c156e58583242717cddb955
+SHA1: 623a83912b21e6261a7d5e0dbbcf3a033ce62d56
+SHA256: 00d97e1f993600cfaef969ef4bb2c7c0419671dbb1f834b7959a56af72d1f8db
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: No Ads. Always use a VPN
