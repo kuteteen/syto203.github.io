@@ -815,14 +815,14 @@ Maintainer: syto203 <syto203@protonmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: debs/syto203.zinitevi.pp_0.0.2_iphoneos-arm.deb
-Size: 8608
-MD5sum: 0957581e09158b29c3da3b84fdc314b5
-SHA1: 93d16ba49a2ac4f322a6e2fa5656d094c8905004
-SHA256: 127e815c77a55070e6c0ddc38505d8d51bdd467fa1597084c89a74845adb3c17
+Size: 8598
+MD5sum: 1e90d29bb05ca718fc69955746c2f457
+SHA1: af05f544b29291e797f1d9c18ef1afdb6baa0c4c
+SHA256: a3e2e8f7496f547947afc2c590e63a25ce5c281d7bc192c647230cea85885470
 Section: Hacks
 Homepage: https://syto203.github.io
 Description: No Ads. Always use a VPN
 Author: syto203 <syto203@protonmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: ZiniTeviPP
+Name: ZiniTevi++
 
